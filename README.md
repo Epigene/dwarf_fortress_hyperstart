@@ -17,7 +17,7 @@ Hyperstart aims to improve the experience for new players with these key feature
 4. Once DF is running, pick "Continue Playing" and the pre-made band of dwarves will be leaded to do your bidding.
 
 ## Bindings
-DF is verbose - reading the menus will usually reveal what keys do what, however navigation can be tricky, this is why navigation keys have been moved to the _left side of the keyboard_.
+DF is verbose - reading the menus will usually reveal what keys do what, however navigation can be tricky, this is why navigation keys have been moved to the __left side of the keyboard__.
 `1` and `2` move up and down menus respectively.
 `3` and `4` move up and down Z-levels respectively.
 Arrow keys and PageUp/PageDown are used to navigate menus where numbers will not work.
@@ -25,8 +25,8 @@ Numpad can also be used.
 
 ## More advice
 This is 2015. [Boatmurdered](http://lparchive.org/Dwarf-Fortress-Boatmurdered/), while a valuable and entertaining read, does not represent the sate of DF for years now, chefly because the game is 3D now, spanning countless depth levels from treetops all the way down to the bottom.
-DF has a steep learning curve. It is akin to flying a plane - one must have a solid understanding of almost everything it can do to even do the most basic thing, which is still awesome.
-It is recommended to watch a _recent_ "lets play" video to see what DF is all about and how simple things like digging stairs up and down Z-levels are done.
+DF has a steep learning curve. It is akin to flying a plane - one must have a solid understanding of almost everything it can do to even do the most basic thing, which is still awesome. Familiarize yourself with Dwarf Therapist, it is crucial for managing what your dwarves can and will do.
+It is recommended to watch a __recent__ "lets play" video to see what DF is all about and how simple things like digging stairs up and down Z-levels are done.
 Feel free to experiment, read through the menus and google for advice. [Double-slit piercing aquifers](http://dwarffortresswiki.org/index.php/v0.34:Double-slit_method) and [Making artificial waterfalls](http://dwarffortresswiki.org/index.php/v0.34:Waterfall) will come in time.
 
 
