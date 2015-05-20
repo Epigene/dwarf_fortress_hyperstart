@@ -29,4 +29,4 @@ DF has a steep learning curve. It is akin to flying a plane - one must have a so
 It is recommended to watch a __recent__ "lets play" video to see what DF is all about and how simple things like digging stairs up and down Z-levels are done.  
 Feel free to experiment, read through the menus and google for advice. [Double-slit piercing aquifers](http://dwarffortresswiki.org/index.php/v0.34:Double-slit_method) and [Making artificial waterfalls](http://dwarffortresswiki.org/index.php/v0.34:Waterfall) will come in time.
 
-
+![Vanilla DF and phobeus graphic set comparison](/relative/path/to/img.gif?raw=true "Vanilla DF and phobeus graphic set comparison")
