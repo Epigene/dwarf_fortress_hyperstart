@@ -7,6 +7,6 @@ Hyperstart aims to improve the experience for new players with these key feature
 2. Better key bindings for navigation
 
 # Installation
-
+[Visit GitHub!](www.github.com)
 
 
