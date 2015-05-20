@@ -1,0 +1,24 @@
+All hauling enabled
+
+d.total_assigned_labors(true) - d.total_assigned_labors(false) == 11
+
+
+##Noobs
+
+(d.total_assigned_labors(true) - d.total_assigned_labors(false) == 11) &&
+// masonry and stone detailing test
+(((d.labor_enabled(13) == true && d.labour_rating(13) < 3)
+|| d.labour_enabled(13) == false) ||
+((d.labor_enabled(12) == true && d.labour_rating(12) < 4)
+|| d.labour_enabled(12) == false)) &&
+!active_military() &&
+(!d.labor_enabled(47) && !d.labor_enabled(48) && !d.labor_enabled(29) &&
+!d.labor_enabled(11) && !d.labor_enabled(33) && !d.labor_enabled(38) &&
+!d.labor_enabled(45) && !d.labor_enabled(50) && !d.labor_enabled(51) &&
+!d.labor_enabled(49) && !d.labor_enabled(00) && !d.labor_enabled(53) &&
+!d.labor_enabled(46)) &&
+((d.labour_rating(16) > 0 && d.labor_enabled(16)) || (d.labour_rating(16) <= 0)) &&
+((d.labour_rating(43) > 0 && d.labor_enabled(43)) || (d.labour_rating(43) <= 0)) &&
+((d.labour_rating(26) > 0 && d.labor_enabled(26)) || (d.labour_rating(26) <= 0)) &&
+((d.labour_rating(72) > 0 && d.labor_enabled(72)) || (d.labour_rating(72) <= 0)) &&
+((d.labour_rating(71) > 0 && d.labor_enabled(71)) || (d.labour_rating(71) <= 0))

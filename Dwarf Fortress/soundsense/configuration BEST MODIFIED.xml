@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><configuration>
+
+	<gamelog encoding="Cp850" path="../gamelog.txt"/>
+	<supplementalLogs>
+		<item path="${gameBaseDir}/ss_fix.log"/>
+	</supplementalLogs>
+
+	<soundpacks allowOverride="false" defaultPath="./packs/" noWarnAbsolutePath="false"/>
+
+	<volume value="0.0"/>
+
+	<gui value="true"/>
+
+	<achievements value="true"/>
+
+	<playbackTheshhold value="4"/>
+
+	<expectedMinimalSoundsCount value="1"/>
+
+	<autoUpdateURLs>
+		<item path="http://df.zweistein.cz/soundsense/soundpack"/>
+		<item path="http://www.armedassault.info/_hosted/soundsense/au"/>
+	</autoUpdateURLs>
+	<autoUpdateReplaceFiles value="true"/>
+	<autoUpdateDeleteFiles value="false"/>
+
+	<disabledSounds><item path="./packs/battle/breath.xml"/><item path="./packs/battle/battle.xml"/><item path="./packs/battle/status.xml"/><item path="./packs/dfhack/dfhack.xml"/><item path="./packs/battle/breath.xml"/><item path="./packs/battle/strikes.xml"/><item path="./packs/dfhack/dfhack.xml"/><item path="./packs/battle/breath.xml"/><item path="./packs/battle/status.xml"/><item path="./packs/battle/battle.xml"/><item path="./packs/battle/gore.xml"/><item path="./packs/battle/strikes.xml"/><item path="./packs/battle/hitevents.xml"/></disabledSounds>
+
+	<mutedChannels/>
+
+</configuration>
