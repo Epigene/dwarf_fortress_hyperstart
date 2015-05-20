@@ -1,5 +1,5 @@
 # Dwarf Fortress Hyperstart
-Hyperstart is an opinionated fork of the [Lazy Newb Pack](http://lazynewbpack.com) - the defacto best collection of tools and configuration for Dwarf Fortress, the fantasy world simulator / game for *windows*. It's aim is to improve accessability and ease of play by providing more useful configuration and defaults for core functionality.
+Hyperstart is an opinionated fork of the [Lazy Newb Pack](http://lazynewbpack.com) - the defacto best collection of tools and configuration for Dwarf Fortress, the fantasy world simulator / game for __windows__. It's aim is to improve accessability and ease of play by providing more useful configuration and defaults for core functionality.
 
 Hyperstart aims to improve the experience for new players with these key features:
 
