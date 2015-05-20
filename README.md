@@ -1,4 +1,7 @@
 # Dwarf Fortress Hyperstart
+
+![Vanilla DF and phobeus graphic set comparison](comparison.gif?raw=true "Vanilla DF and phobeus graphic set comparison")
+
 Hyperstart is an opinionated fork of the [Lazy Newb Pack](http://lazynewbpack.com) - the defacto best collection of tools and configuration for Dwarf Fortress, the fantasy world simulator / game for __windows__. It's aim is to improve accessability and ease of play by providing more useful configuration and defaults for core functionality.
 
 Hyperstart aims to improve the experience for new players with these key features:
@@ -29,4 +32,4 @@ DF has a steep learning curve. It is akin to flying a plane - one must have a so
 It is recommended to watch a __recent__ "lets play" video to see what DF is all about and how simple things like digging stairs up and down Z-levels are done.  
 Feel free to experiment, read through the menus and google for advice. [Double-slit piercing aquifers](http://dwarffortresswiki.org/index.php/v0.34:Double-slit_method) and [Making artificial waterfalls](http://dwarffortresswiki.org/index.php/v0.34:Waterfall) will come in time.
 
-![Vanilla DF and phobeus graphic set comparison](comparison.gif?raw=true "Vanilla DF and phobeus graphic set comparison")
+
