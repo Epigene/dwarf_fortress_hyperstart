@@ -28,7 +28,8 @@ Numpad can also be used.
 
 ## More advice
 This is 2015. [Boatmurdered](http://lparchive.org/Dwarf-Fortress-Boatmurdered/), while a valuable and entertaining read, does not represent the sate of DF for years now, chefly because the game is 3D now, spanning countless depth levels from treetops all the way down to the bottom.  
-DF has a steep learning curve. It is akin to flying a plane - one must have a solid understanding of almost everything it can do to even do the most basic thing, which is still awesome. Familiarize yourself with Dwarf Therapist, it is crucial for managing what your dwarves can and will do.  
+DF has a steep learning curve. It is akin to flying a plane - one must have a solid understanding of almost everything it can do to even do the most basic thing, which is still awesome. Familiarize yourself with Dwarf Therapist, it is crucial for managing what your dwarves can and will do.
+Read through [DF's quickstart guide in the wiki](http://dwarffortresswiki.org/index.php/DF2014:Quickstart_guide)
 It is recommended to watch a __recent__ "lets play" video to see what DF is all about and how simple things like digging stairs up and down Z-levels are done.  
 Feel free to experiment, read through the menus and google for advice. [Double-slit piercing aquifers](http://dwarffortresswiki.org/index.php/v0.34:Double-slit_method) and [Making artificial waterfalls](http://dwarffortresswiki.org/index.php/v0.34:Waterfall) will come in time.
 
