@@ -1,0 +1,4 @@
+1. Run the app (so the hammer icon appears in taskbar)
+2. Alt+f to open Quickforts blueprint load screen
+3. Enter the designation menu (default: d), place the cursor on where you want the blueprint to start (anchor, my blueprints all anchor in the center, so place the cursor in the middle of a 3x3 stair)
+3. Alt+d to begin automatic designation

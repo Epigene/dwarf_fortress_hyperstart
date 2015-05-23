@@ -31,6 +31,7 @@ Invoking: keybinding add Ctrl-Shift-F@dwarfmode forum-dwarves
 Invoking: keybinding add Ctrl-B@dungeonmode adv-bodyswap
 Invoking: keybinding add Ctrl-Shift-B@dungeonmode "adv-bodyswap force"
 Invoking: keybinding add Shift-O@dungeonmode gui/companion-order
+DFHack is running.
 Invoking: keybinding add Ctrl-A@legends "exportlegends all"
 Invoking: keybinding add Ctrl-Shift-Z@dwarfmode/Default "stocks show"
 Invoking: keybinding add Ctrl-Shift-I@dwarfmode/Default "gui/dfstatus"
@@ -63,8 +64,7 @@ Invoking: keybinding add Alt-A@dwarfmode/QueryBuilding/Some/Workshop/Job gui/wor
 Invoking: keybinding add Alt-W@dwarfmode/QueryBuilding/Some/Workshop/Job gui/workflow
 Invoking: keybinding add Alt-W@overallstatus "gui/workflow status"
 Invoking: keybinding add Shift-B@pet/List/Unit "gui/autobutcher"
-Invoking: keybinding add P@dwarfmode/QueryBuilding/Some/Weaponrack gui/assign-rackDFHack is running.
-
+Invoking: keybinding add P@dwarfmode/QueryBuilding/Some/Weaponrack gui/assign-rack
 Invoking: tweak stable-cursor
 Invoking: tweak advmode-contained
 Invoking: tweak fast-trade
@@ -82,3 +82,6 @@ Invoking: enable  dwarfmonitor  mousequery  automelt  autotrade  buildingplan  r
 Invoking: stockflow enable
 Invoking: soundsense-season
 Invoking: log-region
+Client connection established.
+soundsense is not recognized. Did you mean soundsense-season?
+Shutting down client connection.

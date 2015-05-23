@@ -1,0 +1,43 @@
+=== NORMAL === 
+
+-NO miners
+-NO masons
+
+(1) -ONE Architect (building design) + Mechanic
+(2) -ONE Appriser + keeper + carpenter
+(3) -ONE Teacher+Fighter (set to mining too)
+(4) -ONE Weaponsmith
+(5) -ONE Gemcutter (set to mining)
+(6) -ONE Gemsetter (set to brewing)
+(7) -One Doc (5 diagnosis, one in remaining) (set to cook) | Rarely Sick
+
+
+=== Volcano / Smithing Embark === 
+
+(1) -ONE Armorsmith
+(2) -ONE Weaponsmith
+(3) -ONE Blacksmith
+(4) -ONE Furnace operator
+(5) -ONE Diagnostician + Appriser + (keeper) + carpenter
+(6) -ONE Gemsetter (set to brewing)
+(7) -ONE Teacher+Fighter (set to mining too)
+
+== Aquifer ===
+
+??
+
+
+=== Wall Design ===
+
+Build the depot "outside" the fort walls, splitting it off with a riseable bridge, e.g.
+
+WWWWWWDDDDD
+WsssB DDDDD
+WsssB DDDDD
+WsssB DDDDD
+WWWWWWDDDDD
+
+
+
+
+
