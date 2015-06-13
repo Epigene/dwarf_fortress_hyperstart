@@ -27,7 +27,7 @@ Arrow keys and PageUp/PageDown are used to navigate menus where numbers will not
 Numpad can also be used.  
 
 ## More advice
-This is 2015. [Boatmurdered](http://lparchive.org/Dwarf-Fortress-Boatmurdered/), while a valuable and entertaining read, does not represent the sate of DF for years now, chefly because the game is 3D now, spanning countless depth levels from treetops all the way down to the bottom.  
+This is 2015. [Boatmurdered](http://lparchive.org/Dwarf-Fortress-Boatmurdered/), while a valuable and entertaining read, does not represent the state of DF for years now, chiefly because the game is 3D now, spanning countless depth levels from treetops all the way down to the bottom.  
 
 DF has a steep learning curve. It is akin to flying a plane - one must have a solid understanding of almost everything it can do to even do the most basic thing, which is still awesome. Familiarize yourself with Dwarf Therapist, it is crucial for managing what your dwarves can and will do.
 
