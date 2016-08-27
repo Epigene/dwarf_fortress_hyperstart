@@ -49,7 +49,7 @@ Visit [the official webpage](http://www.bay12games.com/dwarves/).
 Either [google for it](https://www.google.lv/?ion=1&espv=2#q=dwarf+therapist) or try [the thread](http://www.bay12forums.com/smf/index.php?PHPSESSID=9e839cc39296fbcdacb657b47a5f0c2c&topic=122968.0) and click for latest release.
 
 ## 3. Get Phobeus texture replacement pack
-See [phobeus' thread](http://www.bay12forums.com/smf/?topic=57557.0)
+See [phobeus' thread](http://dffd.bay12games.com/file.php?id=2430)
 
 You can also [look around for althernatives in the wiki](http://dwarffortresswiki.org/index.php/DF2014:Graphics_set_repository).
 
