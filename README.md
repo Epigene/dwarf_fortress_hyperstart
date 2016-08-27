@@ -81,6 +81,6 @@ Edit the `data/init/d_init.txt` file:
 ## 5. Configure Keys
 Run DF, press ESC, and go into 'Ketbindings'
 
-Make changes to "General/Move secondary selector" and "General/Z level" keys as you see fit.
-1 for menu up and 2 for menu down.
-3 for Z up and 4 for Z down seems to work.
+Make changes to "General/Move secondary selector" and "General/Z level" keys as you see fit.  
+1 for menu up and 2 for menu down.  
+3 for Z up and 4 for Z down seems to work.  
