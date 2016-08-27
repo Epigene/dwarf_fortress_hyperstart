@@ -52,3 +52,35 @@ Either [google for it](https://www.google.lv/?ion=1&espv=2#q=dwarf+therapist) or
 See [phobeus' thread](http://www.bay12forums.com/smf/?topic=57557.0)
 
 You can also [look around for althernatives in the wiki](http://dwarffortresswiki.org/index.php/DF2014:Graphics_set_repository).
+
+## 4. Configure game options
+Edit the `data/init/d_init.txt` file:
+
+```
+[TEMPERATURE:NO]
+[WEATHER:NO]
+[ECONOMY:YES]
+[INVADERS:YES]
+[CAVEINS:YES]
+[ARTIFACTS:YES]
+[ZERO_RENT:NO]
+[TESTING_ARENA:NO]
+[WALKING_SPREADS_SPATTER_DWF:NO]
+[WALKING_SPREADS_SPATTER_ADV:YES]
+
+[PATH_COST:1:10:20:50]
+
+[STORE_DIST_ITEM_DECREASE:20]
+[STORE_DIST_SEED_COMBINE:100]
+[STORE_DIST_BUCKET_COMBINE:100]
+[STORE_DIST_BARREL_COMBINE:100]
+[STORE_DIST_BIN_COMBINE:100]
+
+[SET_LABOR_LISTS:NO]
+```
+## 5. Configure Keys
+Run DF, press ESC, and go into 'Ketbindings'
+
+Make changes to "General/Move secondary selector" and "General/Z level" keys as you see fit.
+1 for menu up and 2 for menu down.
+3 for Z up and 4 for Z down seems to work.
