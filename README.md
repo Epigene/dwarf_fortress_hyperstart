@@ -12,12 +12,16 @@ Hyperstart aims to improve the experience for new players with these key feature
 ## Installation
 1. [Download](https://github.com/Epigene/dwarf_fortress_hyperstart/archive/master.zip) this repo
 2. Unzip
-3. Open the `_Launch` folder and see if you can launch (in order specified)
-    1. Soundsense (yay for sounds and music!)
-    2. DwarfFortress (should run with the DFHack plugin automatically)
-    3. Quickfort
-    4. Dwarf Therapist
-4. Once DF is running, pick "Continue Playing" and the pre-made band of dwarves will be leaded to do your bidding.
+3. Open the `_Launch` folder and see if you can launch (in order specified)  
+    1. DwarfFortress (should run with the DFHack plugin automatically)
+    2. Quickfort
+    3. Dwarf Therapist
+4. Once DF is running, pick "Continue Playing" and the pre-made band of dwarves will be loaded to do your bidding.
+
+## Sounds
+Vanilla dwarf fortess comes with the one soundtrack track. We love it, but more variety is nice.  
+[Soundsense](http://df.zweistein.cz/soundsense/) is the way to go if you want music in Dwarf Fortress.  
+Unfortunately I (opinionated opinion) think it too heavy and provide a radically trimmed-down version at [df-minimal-soundsense](https://github.com/Epigene/df-minimal-soundsense).
 
 ## Bindings
 DF is verbose - reading the menus will usually reveal what keys do what, however navigation can be tricky, this is why navigation keys have been moved to the __left side of the keyboard__.  
@@ -37,4 +41,14 @@ It is recommended to watch a __recent__ "lets play" video to see what DF is all 
 
 Feel free to experiment, read through the menus and google for advice. [Double-slit piercing aquifers](http://dwarffortresswiki.org/index.php/v0.34:Double-slit_method) and [Making artificial waterfalls](http://dwarffortresswiki.org/index.php/v0.34:Waterfall) will come in time.
 
+# Setting up from scratch
+## 1.Get vanilla DF
+Visit [the official webpage](http://www.bay12games.com/dwarves/).
 
+## 2. Get latest Dwarf Therapist
+Either [google for it](https://www.google.lv/?ion=1&espv=2#q=dwarf+therapist) or try [the thread](http://www.bay12forums.com/smf/index.php?PHPSESSID=9e839cc39296fbcdacb657b47a5f0c2c&topic=122968.0) and click for latest release.
+
+## 3. Get Phobeus texture replacement pack
+See [phobeus' thread](http://www.bay12forums.com/smf/?topic=57557.0)
+
+You can also [look around for althernatives in the wiki](http://dwarffortresswiki.org/index.php/DF2014:Graphics_set_repository).
