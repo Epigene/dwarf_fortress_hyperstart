@@ -11,6 +11,16 @@
 (6) -ONE Gemsetter (set to brewing)
 (7) -One Doc (5 diagnosis, one in remaining) (set to cook) | Rarely Sick
 
+Key embark items:
+1) Lots of poultry, 3 females per 1 male
+2) 21 lye
+3) 21 Gypsum plaster (under poweders)
+4) 2 picks
+5) 1 axe (for chopping down trees)
+5) 21 of every available drink
+6) 21 of every available seed
+7) several 2p meat types
+
 
 === Volcano / Smithing Embark === 
 
