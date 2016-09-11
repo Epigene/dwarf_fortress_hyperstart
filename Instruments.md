@@ -46,7 +46,7 @@ A large bagpipe instrument
 
 1. Blowpipe (stone) at __craftsdwarf's workshop__.
 2. Bag (leather) at __leatherworker's workshop__.
-3. Melody pipe at __craftsdwarf's workshop__.
+3. Melody pipe (Wood) at __craftsdwarf's workshop__.
 4. Drone pipe (Bone) at __craftsdwarf's workshop__.
 
 ## Ithod
