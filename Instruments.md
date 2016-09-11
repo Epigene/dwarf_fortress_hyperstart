@@ -14,10 +14,10 @@ A keyed-wind instrument.
 4. Pipes (Glass) at __glass furnace__.
 
 ## Vetek
-A 
+A hand-held metal string instrument.
 
-1. Neck (Bone)
-2. Body ()
+1. Neck (Bone) at __craftsdwarf's workshop__.
+2. Body (Glass) at __glass furnace__,
 3. Strings (Metal)
 
 ## Asen
