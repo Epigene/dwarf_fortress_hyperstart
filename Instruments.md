@@ -1,15 +1,17 @@
 # Music Instruments in DF
 
 ## Bomel
-A **1-piece** instrument made out of horn an __craftsdwarf's workshop__.
+A handheld wind instrument.
+
+1. Horn (bone) at __craftsdwarf's workshop__.
 
 ## Lod
-A **x-piece** instrument made out of horn an __craftsdwarf's workshop__.
+A keyed-wind instrument.
 
 1. Keyboard
 2. Chest
 3. Pump
-4. Pipes (Glass)
+4. Pipes (Glass) at __glass furnace__.
 
 ## Vetek
 A 
