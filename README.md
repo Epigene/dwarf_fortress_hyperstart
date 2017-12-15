@@ -30,6 +30,9 @@ DF is verbose - reading the menus will usually reveal what keys do what, however
 Arrow keys and PageUp/PageDown are used to navigate menus where numbers will not work.  
 Numpad can also be used.  
 
+## Quickfort
+The pack comes with several blueprints to be used with the quickfort DFHack plugin, no more designating by hand!
+
 ## More advice
 This is 2015. [Boatmurdered](http://lparchive.org/Dwarf-Fortress-Boatmurdered/), while a valuable and entertaining read, does not represent the state of DF for years now, chiefly because the game is 3D now, spanning countless depth levels from treetops all the way down to the bottom.  
 
@@ -42,7 +45,7 @@ It is recommended to watch a __recent__ "lets play" video to see what DF is all 
 Feel free to experiment, read through the menus and google for advice. [Double-slit piercing aquifers](http://dwarffortresswiki.org/index.php/v0.34:Double-slit_method) and [Making artificial waterfalls](http://dwarffortresswiki.org/index.php/v0.34:Waterfall) will come in time.
 
 # Setting up from scratch
-## 1.Get vanilla DF
+## 1. Get vanilla DF
 Visit [the official webpage](http://www.bay12games.com/dwarves/).
 
 ## 2. Get latest Dwarf Therapist
@@ -85,7 +88,7 @@ Edit the `data/init/d_init.txt` file:
 [SET_LABOR_LISTS:NO]
 ```
 ## 5. Configure Keys
-Run DF, press ESC, and go into 'Ketbindings'
+Run DF, press ESC, and go into 'Keybindings'
 
 Make changes to "General/Move secondary selector" and "General/Z level" keys as you see fit.  
 1 for menu up and 2 for menu down.  
