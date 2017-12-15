@@ -4,8 +4,8 @@
 -NO masons
 
 (1) -ONE Architect (building design) + Mechanic
-(2) -ONE Appriser + keeper + carpenter
-(3) -ONE Teacher+Fighter (set to mining too)
+(2) -ONE Appriser + book keeper + carpenter
+(3) -ONE Teacher + Fighter (set to mining)
 (4) -ONE Weaponsmith
 (5) -ONE Gemcutter (set to mining)
 (6) -ONE Gemsetter (set to brewing)
@@ -19,8 +19,8 @@ Key embark items:
 5) 1 axe (for chopping down trees)
 5) 21 of every available drink
 6) 21 of every available seed
-7) several 2p meat types
-
+7) tons of 2p meat types
+-8) An anvil - expensive, but mandatory if won't be able to trade
 
 === Volcano / Smithing Embark === 
 
@@ -46,8 +46,3 @@ WsssB DDDDD
 WsssB DDDDD
 WsssB DDDDD
 WWWWWWDDDDD
-
-
-
-
-
