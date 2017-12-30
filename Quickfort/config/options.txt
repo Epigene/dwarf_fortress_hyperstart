@@ -37,7 +37,7 @@ KeyPrevMenuPage = {/}
 ShowStartupTrayTip = 1
 
 # Set to 0 to disable the mouse tooltip entirely.
-ShowMouseTooltip = 0
+ShowMouseTooltip = 1
 
 # Try increasing this value if you have trouble with a flickering
 # mouse tooltip.
@@ -78,7 +78,7 @@ SendMode = Send
 # Increase this value if things go too quickly for your computer
 # when digging/building; decrease to build faster. Slower computers,
 # larger resolutions and bigger DF maps may need a larger delay.
-DelayMultiplier = 1
+DelayMultiplier = 2
 
 # How long to pause after building doors, picking from materials
 # lists, etc. If QF seems to go off the rails in these
