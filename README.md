@@ -74,7 +74,7 @@ You may need to run save fixer for your texture replacement pack.
 For Phobeus the file is called `df_savegame_updater.bat`.  
 
 ## 5. Get latest Dwarf Therapist
-Either [google for it](https://www.google.lv/?ion=1&espv=2#q=dwarf+therapist) or try [the thread](http://www.bay12forums.com/smf/index.php?PHPSESSID=9e839cc39296fbcdacb657b47a5f0c2c&topic=122968.0) and click for latest release.
+Either [google for it](https://www.google.lv/?ion=1&espv=2#q=dwarf+therapist) or try [the thread](http://www.bay12forums.com/smf/index.php?topic=168411.0) and click for latest release. As of writing (2017-12-30), the latest version of DT is 39.1.2.
 
 __NB__, Therapist relies on memory layout being known; this is usually provided by the DFHack project. There have been periods when memory layout is not available for months. 
 
